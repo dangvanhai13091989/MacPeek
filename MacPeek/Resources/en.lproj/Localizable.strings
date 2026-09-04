@@ -1,0 +1,81 @@
+/* ===== Onboarding ===== */
+"onboarding.welcome.title" = "Welcome to MacPeek";
+"onboarding.welcome.subtitle" = "Preview app windows just by\nhovering over Dock icons.";
+"onboarding.welcome.feature1" = "Real-time window preview";
+"onboarding.welcome.feature2" = "Lightweight, optimized for Apple Silicon";
+"onboarding.welcome.feature3" = "Private — no data collection";
+
+"onboarding.accessibility.title" = "Accessibility Permission";
+"onboarding.accessibility.subtitle" = "MacPeek needs **Accessibility** permission\nto detect Dock hover events.";
+"onboarding.accessibility.guide_title" = "📋 How to grant permission:";
+"onboarding.accessibility.step1" = "Press \"Open Settings\" below";
+"onboarding.accessibility.step2" = "Find **MacPeek** in the list";
+"onboarding.accessibility.step3" = "Toggle it ON ✅ (may need password)";
+"onboarding.accessibility.step4" = "Come back — status will update automatically";
+
+"onboarding.accessibility.mismatch_title" = "Permission not detected";
+"onboarding.accessibility.mismatch_guide" = "🔧 Fix permission issue:";
+"onboarding.accessibility.mismatch_step1" = "Open **System Settings → Privacy → Accessibility**";
+"onboarding.accessibility.mismatch_step2" = "Remove MacPeek (press **−** button), then add it back (press **+**)";
+"onboarding.accessibility.mismatch_step3" = "Or press **Reset Permissions** below to fix automatically";
+
+"onboarding.screenrecording.title" = "Screen Recording Permission";
+"onboarding.screenrecording.subtitle" = "MacPeek needs **Screen Recording** permission\nto capture window previews.";
+"onboarding.screenrecording.guide_title" = "📋 How to grant permission:";
+"onboarding.screenrecording.step1" = "Press \"Open Settings\" below";
+"onboarding.screenrecording.step2" = "Find **MacPeek** in the list";
+"onboarding.screenrecording.step3" = "Toggle it ON ✅";
+"onboarding.screenrecording.step4" = "Choose **Quit & Reopen** or press the button below";
+"onboarding.screenrecording.toggled" = "Permission enabled ✅";
+"onboarding.screenrecording.restart_title" = "⚠️ macOS requires app restart";
+"onboarding.screenrecording.restart_subtitle" = "Screen Recording permission only takes effect\nafter restarting MacPeek.";
+
+"onboarding.complete.title" = "All set! 🎉";
+"onboarding.complete.subtitle" = "MacPeek is running in your Menu Bar.\nHover over Dock icons to preview windows.";
+"onboarding.complete.restart_subtitle" = "Permissions granted!\nPress **Restart** to activate MacPeek.";
+"onboarding.complete.missing_title" = "Permission Missing ⚠️";
+"onboarding.complete.missing_subtitle" = "Accessibility permission is still not granted.\nMacPeek cannot work without it.";
+
+/* Buttons */
+"button.continue" = "Continue";
+"button.back" = "Back";
+"button.close" = "Close";
+"button.request_permission" = "Request Permission";
+"button.open_settings" = "Open Settings";
+"button.already_enabled" = "Already enabled";
+"button.already_enabled_accessibility" = "I already enabled it";
+"button.reset_permissions" = "Reset Permissions";
+"button.restart_app" = "Restart MacPeek";
+"button.quit" = "Quit MacPeek";
+
+/* Permissions */
+"permission.accessibility" = "Accessibility";
+"permission.screen_recording" = "Screen Recording";
+"permission.status.granted" = "Granted";
+"permission.status.denied" = "Not granted";
+"permission.missing" = "Missing permissions";
+
+/* Menu Bar */
+"menu.title" = "MacPeek";
+"menu.enable" = "Enable MacPeek";
+"menu.running" = "Running";
+"menu.paused" = "Paused";
+"menu.permissions_settings" = "Permission settings…";
+"menu.about" = "About MacPeek";
+"menu.quit" = "Quit MacPeek";
+"menu.launch_at_login" = "Launch at Login";
+"menu.free_open_source" = "Free & open source";
+"menu.support_development" = "Support development…";
+"menu.view_source" = "View source on GitHub";
+"menu.check_updates" = "Check for Updates…";
+
+
+/* Preview */
+"preview.windows_count" = "%d windows";
+"preview.single_window" = "1 window";
+"preview.click_to_switch" = "Click to switch";
+"preview.more_windows" = "+%d more";
+"preview.close_window" = "Close this window";
+
+/* About */
+"about.description" = "Dock window preview for macOS.\nBuilt with ❤️ for Apple Silicon.";

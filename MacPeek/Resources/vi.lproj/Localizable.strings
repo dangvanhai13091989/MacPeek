@@ -1,0 +1,81 @@
+/* ===== Onboarding ===== */
+"onboarding.welcome.title" = "Chào mừng đến MacPeek";
+"onboarding.welcome.subtitle" = "Xem trước cửa sổ ứng dụng chỉ bằng cách\ndi chuột qua biểu tượng trên Dock.";
+"onboarding.welcome.feature1" = "Xem trước cửa sổ theo thời gian thực";
+"onboarding.welcome.feature2" = "Nhẹ nhàng, tối ưu cho Apple Silicon";
+"onboarding.welcome.feature3" = "Bảo mật — không thu thập dữ liệu";
+
+"onboarding.accessibility.title" = "Quyền Trợ năng";
+"onboarding.accessibility.subtitle" = "MacPeek cần quyền **Trợ năng (Accessibility)**\nđể phát hiện khi chuột di qua Dock.";
+"onboarding.accessibility.guide_title" = "📋 Hướng dẫn cấp quyền:";
+"onboarding.accessibility.step1" = "Nhấn nút \"Mở Cài đặt\" bên dưới";
+"onboarding.accessibility.step2" = "Tìm **MacPeek** trong danh sách";
+"onboarding.accessibility.step3" = "Bật công tắc sang ✅ (có thể cần nhập mật khẩu)";
+"onboarding.accessibility.step4" = "Quay lại đây — trạng thái sẽ tự cập nhật";
+
+"onboarding.accessibility.mismatch_title" = "Không phát hiện quyền";
+"onboarding.accessibility.mismatch_guide" = "🔧 Sửa lỗi quyền:";
+"onboarding.accessibility.mismatch_step1" = "Mở **Cài đặt hệ thống → Quyền riêng tư → Trợ năng**";
+"onboarding.accessibility.mismatch_step2" = "Xóa MacPeek (nhấn **−**), rồi thêm lại (nhấn **+**)";
+"onboarding.accessibility.mismatch_step3" = "Hoặc nhấn **Đặt lại quyền** bên dưới để tự động sửa";
+
+"onboarding.screenrecording.title" = "Quyền Ghi màn hình";
+"onboarding.screenrecording.subtitle" = "MacPeek cần quyền **Ghi màn hình (Screen Recording)**\nđể chụp ảnh xem trước các cửa sổ ứng dụng.";
+"onboarding.screenrecording.guide_title" = "📋 Hướng dẫn cấp quyền:";
+"onboarding.screenrecording.step1" = "Nhấn nút \"Mở Cài đặt\" bên dưới";
+"onboarding.screenrecording.step2" = "Tìm **MacPeek** trong danh sách";
+"onboarding.screenrecording.step3" = "Bật công tắc sang ✅";
+"onboarding.screenrecording.step4" = "Chọn **Quit & Reopen** hoặc nhấn nút bên dưới";
+"onboarding.screenrecording.toggled" = "Đã bật quyền ✅";
+"onboarding.screenrecording.restart_title" = "⚠️ macOS yêu cầu khởi động lại app";
+"onboarding.screenrecording.restart_subtitle" = "Quyền Ghi màn hình chỉ có hiệu lực sau khi\nkhởi động lại MacPeek.";
+
+"onboarding.complete.title" = "Sẵn sàng rồi! 🎉";
+"onboarding.complete.subtitle" = "MacPeek đang chạy trên thanh Menu.\nDi chuột qua biểu tượng trên Dock để xem trước cửa sổ.";
+"onboarding.complete.restart_subtitle" = "Quyền đã được cấp!\nNhấn **Khởi động lại** để MacPeek hoạt động.";
+"onboarding.complete.missing_title" = "Thiếu quyền ⚠️";
+"onboarding.complete.missing_subtitle" = "Quyền Trợ năng vẫn chưa được cấp.\nMacPeek không thể hoạt động nếu thiếu quyền này.";
+
+/* Buttons */
+"button.continue" = "Tiếp tục";
+"button.back" = "Quay lại";
+"button.close" = "Đóng";
+"button.request_permission" = "Yêu cầu quyền";
+"button.open_settings" = "Mở Cài đặt";
+"button.already_enabled" = "Đã bật rồi";
+"button.already_enabled_accessibility" = "Tôi đã bật rồi";
+"button.reset_permissions" = "Đặt lại quyền";
+"button.restart_app" = "Khởi động lại MacPeek";
+"button.quit" = "Thoát MacPeek";
+
+/* Permissions */
+"permission.accessibility" = "Trợ năng";
+"permission.screen_recording" = "Ghi màn hình";
+"permission.status.granted" = "Đã cấp";
+"permission.status.denied" = "Chưa cấp";
+"permission.missing" = "Thiếu quyền";
+
+/* Menu Bar */
+"menu.title" = "MacPeek";
+"menu.enable" = "Bật MacPeek";
+"menu.running" = "Đang chạy";
+"menu.paused" = "Tạm dừng";
+"menu.permissions_settings" = "Cài đặt quyền…";
+"menu.about" = "Giới thiệu MacPeek";
+"menu.quit" = "Thoát MacPeek";
+"menu.launch_at_login" = "Khởi động cùng hệ thống";
+"menu.free_open_source" = "Miễn phí & mã nguồn mở";
+"menu.support_development" = "Ủng hộ phát triển…";
+"menu.view_source" = "Xem mã nguồn trên GitHub";
+"menu.check_updates" = "Kiểm tra cập nhật…";
+
+
+/* Preview */
+"preview.windows_count" = "%d cửa sổ";
+"preview.single_window" = "1 cửa sổ";
+"preview.click_to_switch" = "Nhấn để chuyển";
+"preview.more_windows" = "+%d thêm";
+"preview.close_window" = "Đóng cửa sổ này";
+
+/* About */
+"about.description" = "Xem trước cửa sổ trên Dock cho macOS.\nĐược xây dựng với ❤️ cho Apple Silicon.";

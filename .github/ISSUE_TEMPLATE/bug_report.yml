@@ -1,0 +1,52 @@
+name: Bug report
+description: Report a reproducible problem in MacPeek
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve MacPeek. Do not attach screenshots containing sensitive information.
+  - type: input
+    id: version
+    attributes:
+      label: MacPeek version
+      placeholder: 1.1.0
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac model
+      placeholder: macOS 15.6, MacBook Pro M3
+    validations:
+      required: true
+  - type: dropdown
+    id: dock
+    attributes:
+      label: Dock position
+      options:
+        - Bottom
+        - Left
+        - Right
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      placeholder: Tell us exactly how to reproduce the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true

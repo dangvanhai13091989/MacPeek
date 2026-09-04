@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MacPeek</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 04 Sep 2026 22:25:37 +0700</pubDate>
+            <link>https://macpeek.pages.dev</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/dangvanhai13091989/MacPeek/releases/tag/v1.1.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MacPeek 1.1.0
+
+- MacPeek is now free and open source under GPL-3.0.
+- Added signed automatic updates powered by Sparkle 2.
+- Added manual **Check for Updates…** from the menu bar.
+- Fixed the Enable MacPeek switch so it actually starts and stops Dock monitoring.
+- Added links for source code and optional development support.
+- Added an explicit Screen Recording usage description.
+- Removed the trial and license activation flow.
+]]></description>
+            <enclosure url="https://github.com/dangvanhai13091989/MacPeek/releases/download/v1.1.0/MacPeek.dmg" length="3301988" type="application/octet-stream" sparkle:edSignature="pDOHbu+o/KNOYVHEqlbjQCn1wjCPcABH7qcUPfnLFolL9TWY+8FgJNpk+/D0gy2UM59xhd/uNeU7A146WUk6Cg=="/>
+        </item>
+    </channel>
+</rss>

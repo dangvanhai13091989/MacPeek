@@ -1,0 +1,65 @@
+/* ===== Onboarding ===== */
+"onboarding.welcome.title" = "欢迎使用 MacPeek";
+"onboarding.welcome.subtitle" = "将鼠标悬停在 Dock 图标上\n即可预览应用程序窗口。";
+"onboarding.welcome.feature1" = "实时窗口预览";
+"onboarding.welcome.feature2" = "轻量级，为 Apple Silicon 优化";
+"onboarding.welcome.feature3" = "隐私安全 — 不收集任何数据";
+
+"onboarding.accessibility.title" = "辅助功能权限";
+"onboarding.accessibility.subtitle" = "MacPeek 需要**辅助功能**权限\n以检测 Dock 悬停事件。";
+"onboarding.accessibility.guide_title" = "📋 授权步骤：";
+"onboarding.accessibility.step1" = "点击下方\"打开设置\"按钮";
+"onboarding.accessibility.step2" = "在列表中找到 **MacPeek**";
+"onboarding.accessibility.step3" = "开启开关 ✅（可能需要输入密码）";
+"onboarding.accessibility.step4" = "返回此处 — 状态将自动更新";
+
+"onboarding.screenrecording.title" = "屏幕录制权限";
+"onboarding.screenrecording.subtitle" = "MacPeek 需要**屏幕录制**权限\n以捕获窗口预览图。";
+"onboarding.screenrecording.guide_title" = "📋 授权步骤：";
+"onboarding.screenrecording.step1" = "点击下方\"打开设置\"按钮";
+"onboarding.screenrecording.step2" = "在列表中找到 **MacPeek**";
+"onboarding.screenrecording.step3" = "开启开关 ✅";
+"onboarding.screenrecording.step4" = "选择 **退出并重新打开** 或点击下方按钮";
+"onboarding.screenrecording.toggled" = "权限已启用 ✅";
+"onboarding.screenrecording.restart_title" = "⚠️ macOS 需要重新启动应用";
+"onboarding.screenrecording.restart_subtitle" = "屏幕录制权限需要重新启动\nMacPeek 后才能生效。";
+
+"onboarding.complete.title" = "一切就绪！🎉";
+"onboarding.complete.subtitle" = "MacPeek 正在菜单栏中运行。\n将鼠标悬停在 Dock 图标上即可预览窗口。";
+"onboarding.complete.restart_subtitle" = "权限已授予！\n点击**重新启动**以激活 MacPeek。";
+
+/* Buttons */
+"button.continue" = "继续";
+"button.back" = "返回";
+"button.close" = "关闭";
+"button.request_permission" = "请求权限";
+"button.open_settings" = "打开设置";
+"button.already_enabled" = "已启用";
+"button.restart_app" = "重新启动 MacPeek";
+"button.quit" = "退出 MacPeek";
+
+/* Permissions */
+"permission.accessibility" = "辅助功能";
+"permission.screen_recording" = "屏幕录制";
+"permission.status.granted" = "已授权";
+"permission.status.denied" = "未授权";
+"permission.missing" = "缺少权限";
+
+/* Menu Bar */
+"menu.title" = "MacPeek";
+"menu.enable" = "启用 MacPeek";
+"menu.running" = "运行中";
+"menu.paused" = "已暂停";
+"menu.permissions_settings" = "权限设置…";
+"menu.about" = "关于 MacPeek";
+"menu.quit" = "退出 MacPeek";
+"menu.launch_at_login" = "开机自启动";
+
+
+/* Preview */
+"preview.windows_count" = "%d 个窗口";
+"preview.single_window" = "1 个窗口";
+"preview.click_to_switch" = "点击切换";
+
+/* About */
+"about.description" = "macOS Dock 窗口预览工具。\n为 Apple Silicon 精心打造。";

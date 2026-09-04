@@ -1,0 +1,51 @@
+name: MacPeek
+options:
+  bundleIdPrefix: com.macpeek
+  deploymentTarget:
+    macOS: "14.0"
+  xcodeVersion: "16.0"
+  createIntermediateGroups: true
+
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    MACOSX_DEPLOYMENT_TARGET: "14.0"
+    ARCHS: "$(ARCHS_STANDARD)"
+    SUPPORTS_MACCATALYST: false
+
+packages:
+  Sparkle:
+    url: https://github.com/sparkle-project/Sparkle
+    exactVersion: 2.9.6
+
+targets:
+  MacPeek:
+    type: application
+    platform: macOS
+    deploymentTarget: "14.0"
+    sources:
+      - MacPeek
+    dependencies:
+      - package: Sparkle
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.macpeek.MacPeek
+        PRODUCT_NAME: MacPeek
+        MARKETING_VERSION: "1.1.0"
+        CURRENT_PROJECT_VERSION: "2"
+        INFOPLIST_FILE: MacPeek/Info.plist
+        CODE_SIGN_ENTITLEMENTS: MacPeek/MacPeek.entitlements
+        CODE_SIGN_STYLE: Manual
+        DEVELOPMENT_TEAM: 84253AGHK5
+        CODE_SIGN_IDENTITY: "Developer ID Application"
+        ENABLE_HARDENED_RUNTIME: true
+        ENABLE_APP_SANDBOX: false
+        SWIFT_EMIT_LOC_STRINGS: true
+        GENERATE_INFOPLIST_FILE: false
+        COMBINE_HIDPI_IMAGES: true
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+    entitlements:
+      path: MacPeek/MacPeek.entitlements
+    scheme:
+      testTargets: []
+      gatherCoverageData: false
