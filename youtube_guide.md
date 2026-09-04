@@ -68,7 +68,7 @@ Bạn cần **2 video**:
 
 [30-35s] Màn hình end card:
          "MacPeek — Free & open source"
-         "Download at macpeek.pages.dev"
+         "Download at dangvanhai13091989.github.io/MacPeek/"
 ```
 
 ---
@@ -94,7 +94,7 @@ have this feature... until now."
 
 [Quay màn hình thật]
 
-1. Mở trình duyệt → vào macpeek.pages.dev
+1. Mở trình duyệt → vào dangvanhai13091989.github.io/MacPeek/
 2. Click "Download Free"
 3. Mở file DMG → kéo MacPeek vào Applications
 4. Mở MacPeek từ Applications
@@ -154,7 +154,7 @@ have this feature... until now."
 "MacPeek is completely free and open source under GPL-3.0.
 If it helps you, an optional donation supports future updates."
 
-"Download at macpeek.pages.dev"
+"Download at dangvanhai13091989.github.io/MacPeek/"
 
 [End card với links]
 ```
@@ -206,7 +206,7 @@ MacPeek — Free Open-Source Window Preview for the macOS Dock
 ```
 MacPeek adds Windows-style window preview to the macOS Dock. Just hover over any Dock icon to instantly see a live preview of its windows.
 
-🔗 Download free: https://macpeek.pages.dev
+🔗 Download free: https://dangvanhai13091989.github.io/MacPeek/
 🔗 Source code: https://github.com/dangvanhai13091989/MacPeek
 ❤️ Support development: https://vanhaimagic.gumroad.com/l/macpeek
 

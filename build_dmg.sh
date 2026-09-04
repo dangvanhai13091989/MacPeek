@@ -91,7 +91,7 @@ fi
 "${SPARKLE_BIN_DIR}/generate_appcast" \
     --download-url-prefix "https://github.com/${REPOSITORY}/releases/download/v${VERSION}/" \
     --full-release-notes-url "https://github.com/${REPOSITORY}/releases/tag/v${VERSION}" \
-    --link "https://macpeek.pages.dev" \
+    --link "https://dangvanhai13091989.github.io/MacPeek/" \
     --embed-release-notes \
     --maximum-versions 10 \
     --maximum-deltas 0 \

@@ -7,7 +7,7 @@
 
 MacPeek adds Windows-style window previews to the macOS Dock. Hover over a running app, see its open windows, then click a thumbnail to switch directly to it.
 
-**[Download the latest notarized DMG](https://github.com/dangvanhai13091989/MacPeek/releases/latest/download/MacPeek.dmg)** · [Website](https://macpeek.pages.dev) · [Support development](https://vanhaimagic.gumroad.com/l/macpeek)
+**[Download the latest notarized DMG](https://github.com/dangvanhai13091989/MacPeek/releases/latest/download/MacPeek.dmg)** · [Website](https://dangvanhai13091989.github.io/MacPeek/) · [Support development](https://vanhaimagic.gumroad.com/l/macpeek)
 
 MacPeek is free and open source. Donations are optional and never unlock additional features.
 

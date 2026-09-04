@@ -5,7 +5,7 @@
 | Thông tin | Giá trị |
 |-----------|---------|
 | **Tên** | MacPeek |
-| **Website** | https://macpeek.pages.dev |
+| **Website** | https://dangvanhai13091989.github.io/MacPeek/ |
 | **GitHub** | https://github.com/dangvanhai13091989/MacPeek |
 | **Gumroad** | https://vanhaimagic.gumroad.com/l/macpeek |
 | **Giá** | Miễn phí, mã nguồn mở; donate tùy chọn |
@@ -67,7 +67,7 @@ I built MacPeek because I've always missed the Windows taskbar hover preview fea
 
 **Pricing:** Free and open source under GPL-3.0. Donations are optional.
 
-🔗 Website: https://macpeek.pages.dev
+🔗 Website: https://dangvanhai13091989.github.io/MacPeek/
 🔗 Source: https://github.com/dangvanhai13091989/MacPeek
 🔗 Download: https://github.com/dangvanhai13091989/MacPeek/releases/latest/download/MacPeek.dmg
 
@@ -105,7 +105,7 @@ Hey everyone! I'm a solo dev and just shipped MacPeek — a tiny macOS utility t
 
 **Business model:** Free and open source. Optional donations support continued development.
 
-Website: https://macpeek.pages.dev
+Website: https://dangvanhai13091989.github.io/MacPeek/
 GitHub: https://github.com/dangvanhai13091989/MacPeek
 
 Would love any feedback on the product or the landing page! 🙏
@@ -128,7 +128,7 @@ Just hover over any app icon in the Dock and you instantly see a live preview of
 
 It's a lightweight native app, runs in the menu bar, and supports 18 languages.
 
-Free and open source: https://macpeek.pages.dev
+Free and open source: https://dangvanhai13091989.github.io/MacPeek/
 
 Thought you guys might find this useful!
 ```
@@ -167,7 +167,7 @@ Privacy: No analytics or data collection. Window previews stay local; network ac
 
 Free and open source under GPL-3.0. Optional donations support maintenance.
 
-Website: https://macpeek.pages.dev
+Website: https://dangvanhai13091989.github.io/MacPeek/
 Source: https://github.com/dangvanhai13091989/MacPeek
 ```
 
@@ -223,7 +223,7 @@ Hover over any Dock icon → see its windows instantly.
 
 Free and open source. Optional donations support future updates.
 
-🔗 https://macpeek.pages.dev
+🔗 https://dangvanhai13091989.github.io/MacPeek/
 
 🧵 Here's what it does:
 ```
@@ -300,7 +300,7 @@ Tính năng chính:
 
 Miễn phí và mã nguồn mở theo GPL-3.0. Donate hoàn toàn tùy chọn.
 
-Download: https://macpeek.pages.dev
+Download: https://dangvanhai13091989.github.io/MacPeek/
 GitHub: https://github.com/dangvanhai13091989/MacPeek
 
 Mọi người dùng thử feedback giúp mình nhé! 🙏
