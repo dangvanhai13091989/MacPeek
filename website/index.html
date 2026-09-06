@@ -13,9 +13,10 @@
     <meta property="og:description" content="Preview app windows by hovering over Dock icons. Lightweight & private.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://dangvanhai13091989.github.io/MacPeek/">
+    <meta property="og:image" content="https://dangvanhai13091989.github.io/MacPeek/assets/macpeek-preview.png">
     <meta name="twitter:card" content="summary_large_image">
-    <link rel="icon" type="image/svg+xml"
-        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👁️</text></svg>">
+    <meta name="twitter:image" content="https://dangvanhai13091989.github.io/MacPeek/assets/macpeek-preview.png">
+    <link rel="icon" type="image/png" href="assets/macpeek-icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
@@ -28,7 +29,7 @@
     <nav class="navbar" id="navbar">
         <div class="container nav-container">
             <a href="#" class="nav-logo">
-                <span class="logo-icon">👁️</span>
+                <img src="assets/macpeek-icon.png" class="logo-icon" width="28" height="28" alt="">
                 <span class="logo-text">MacPeek</span>
             </a>
             <div class="nav-links">
@@ -56,6 +57,7 @@
     <section class="hero" id="hero">
         <div class="hero-glow"></div>
         <div class="container hero-container">
+            <img src="assets/macpeek-icon.png" class="hero-app-icon" width="88" height="88" alt="MacPeek app icon">
             <div class="hero-badge" data-i18n="hero.badge">macOS Sonoma+ • Apple Silicon Optimized</div>
             <h1 class="hero-title">
                 <span data-i18n="hero.title1">Preview any window.</span><br>
@@ -238,8 +240,8 @@
                     <li data-i18n="pricing.f5">✅ No analytics or tracking</li>
                 </ul>
                 <div class="pricing-buttons">
-                    <a href="https://vanhaimagic.gumroad.com/l/macpeek" target="_blank"
-                        class="btn btn-primary btn-lg pricing-gumroad" id="buyGumroad" data-i18n="pricing.buyGumroad">
+                    <a href="https://paypal.me/HaiDang880" target="_blank" rel="noopener noreferrer"
+                        class="btn btn-primary btn-lg pricing-paypal" id="donatePayPal" data-i18n="pricing.buyPaypal">
                         Support development
                     </a>
                     <a href="https://github.com/dangvanhai13091989/MacPeek" target="_blank"
@@ -328,13 +330,13 @@
     <footer class="footer">
         <div class="container footer-container">
             <div class="footer-brand">
-                <span class="logo-icon">👁️</span>
+                <img src="assets/macpeek-icon.png" class="logo-icon" width="28" height="28" alt="">
                 <span class="logo-text">MacPeek</span>
                 <p class="footer-desc" data-i18n="footer.desc">Dock window preview for macOS.<br>Built with ❤️ for Apple
                     Silicon.</p>
             </div>
             <div class="footer-links">
-                <a href="https://vanhaimagic.gumroad.com/l/macpeek" data-i18n="footer.support">Support</a>
+                <a href="https://paypal.me/HaiDang880" target="_blank" rel="noopener noreferrer" data-i18n="footer.support">Support</a>
                 <a href="https://github.com/dangvanhai13091989/MacPeek/blob/main/PRIVACY.md" data-i18n="footer.privacy">Privacy Policy</a>
                 <a href="https://github.com/dangvanhai13091989/MacPeek" data-i18n="footer.terms">Source code</a>
             </div>

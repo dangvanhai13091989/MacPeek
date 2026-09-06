@@ -180,7 +180,7 @@ struct MenuBarView: View {
                 label: L10n.tr("menu.support_development"),
                 id: "support"
             ) {
-                openURL("https://vanhaimagic.gumroad.com/l/macpeek")
+                openURL("https://paypal.me/HaiDang880")
             }
 
             menuButton(

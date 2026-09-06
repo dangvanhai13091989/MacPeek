@@ -1,13 +1,23 @@
-# MacPeek
+<p align="center">
+  <img src="MacPeek/Resources/Assets.xcassets/AppIcon.appiconset/icon_256.png" width="112" alt="MacPeek app icon">
+</p>
 
-![macOS 14+](https://img.shields.io/badge/macOS-14%2B-111111?logo=apple)
-![Swift 5.9](https://img.shields.io/badge/Swift-5.9-F05138?logo=swift&logoColor=white)
-![License GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue)
-![Latest release](https://img.shields.io/github/v/release/dangvanhai13091989/MacPeek)
+<h1 align="center">MacPeek</h1>
+
+<p align="center">Windows-style Dock previews for macOS — native, private, and free.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-14%2B-111111?logo=apple" alt="macOS 14+">
+  <img src="https://img.shields.io/badge/Swift-5.9-F05138?logo=swift&amp;logoColor=white" alt="Swift 5.9">
+  <img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="License GPL-3.0">
+  <img src="https://img.shields.io/github/v/release/dangvanhai13091989/MacPeek" alt="Latest release">
+</p>
+
+![MacPeek Dock window preview](docs/images/macpeek-preview.svg)
 
 MacPeek adds Windows-style window previews to the macOS Dock. Hover over a running app, see its open windows, then click a thumbnail to switch directly to it.
 
-**[Download the latest notarized DMG](https://github.com/dangvanhai13091989/MacPeek/releases/latest/download/MacPeek.dmg)** · [Website](https://dangvanhai13091989.github.io/MacPeek/) · [Support development](https://vanhaimagic.gumroad.com/l/macpeek)
+<p align="center"><strong><a href="https://github.com/dangvanhai13091989/MacPeek/releases/latest/download/MacPeek.dmg">Download the latest notarized DMG</a></strong> · <a href="https://dangvanhai13091989.github.io/MacPeek/">Website</a> · <a href="https://paypal.me/HaiDang880">Donate with PayPal</a></p>
 
 MacPeek is free and open source. Donations are optional and never unlock additional features.
 
@@ -31,6 +41,10 @@ MacPeek is free and open source. Donations are optional and never unlock additio
 3. Launch MacPeek and follow the permission setup.
 
 The release is signed with a Developer ID certificate and notarized by Apple. MacPeek is distributed outside the Mac App Store because its Dock integration depends on Accessibility APIs that are incompatible with the App Store sandbox.
+
+## How it works
+
+![Hover a Dock icon, preview its windows, and click to switch](docs/images/how-it-works.svg)
 
 ## Permissions
 
@@ -75,7 +89,7 @@ Bug reports, pull requests, performance profiling, and translations are welcome.
 
 ## Support
 
-If MacPeek saves you time, you can [support ongoing development](https://vanhaimagic.gumroad.com/l/macpeek). You can also help by starring the repository, reporting reproducible bugs, or improving a translation.
+If MacPeek saves you time, you can [support ongoing development with PayPal](https://paypal.me/HaiDang880). You can also help by starring the repository, reporting reproducible bugs, or improving a translation.
 
 ## License
 

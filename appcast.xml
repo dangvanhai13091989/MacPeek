@@ -3,6 +3,27 @@
     <channel>
         <title>MacPeek</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 06 Sep 2026 11:40:42 +0700</pubDate>
+            <link>https://dangvanhai13091989.github.io/MacPeek/</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/dangvanhai13091989/MacPeek/releases/tag/v1.1.1</sparkle:fullReleaseNotesLink>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MacPeek 1.1.1
+
+![MacPeek Dock window preview](https://raw.githubusercontent.com/dangvanhai13091989/MacPeek/main/website/assets/macpeek-preview.png)
+
+- Replaced the optional development-support link with PayPal.Me.
+- Added a richer project overview with product artwork and a visual three-step guide.
+- Added social preview artwork and the real MacPeek icon to the project website.
+- Kept the app fully free, open source, Apple-notarized, and automatically updated through Sparkle.
+
+**[Download MacPeek.dmg](https://github.com/dangvanhai13091989/MacPeek/releases/latest/download/MacPeek.dmg)** · [Donate with PayPal](https://paypal.me/HaiDang880)
+]]></description>
+            <enclosure url="https://github.com/dangvanhai13091989/MacPeek/releases/download/v1.1.1/MacPeek.dmg" length="3301974" type="application/octet-stream" sparkle:edSignature="6EhfgZRSPrqqpRSf5HG2gbdyIpduISg5if93f5gVVv4cFkIVoSeE9yQeEyJo1wyoonEi7nzwktp/TOsZ1fUsAA=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Fri, 04 Sep 2026 22:25:37 +0700</pubDate>
             <link>https://dangvanhai13091989.github.io/MacPeek/</link>

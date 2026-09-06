@@ -208,7 +208,7 @@ MacPeek adds Windows-style window preview to the macOS Dock. Just hover over any
 
 🔗 Download free: https://dangvanhai13091989.github.io/MacPeek/
 🔗 Source code: https://github.com/dangvanhai13091989/MacPeek
-❤️ Support development: https://vanhaimagic.gumroad.com/l/macpeek
+❤️ Support development: https://paypal.me/HaiDang880
 
 Features:
 ✅ Real-time window preview on Dock hover

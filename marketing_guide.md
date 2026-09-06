@@ -7,7 +7,7 @@
 | **Tên** | MacPeek |
 | **Website** | https://dangvanhai13091989.github.io/MacPeek/ |
 | **GitHub** | https://github.com/dangvanhai13091989/MacPeek |
-| **Gumroad** | https://vanhaimagic.gumroad.com/l/macpeek |
+| **PayPal** | https://paypal.me/HaiDang880 |
 | **Giá** | Miễn phí, mã nguồn mở; donate tùy chọn |
 | **Nền tảng** | macOS 14+ (Sonoma) |
 | **Cập nhật** | Tự động qua Sparkle + GitHub Releases |

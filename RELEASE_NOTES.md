@@ -1,9 +1,10 @@
-# MacPeek 1.1.0
+# MacPeek 1.1.1
 
-- MacPeek is now free and open source under GPL-3.0.
-- Added signed automatic updates powered by Sparkle 2.
-- Added manual **Check for Updates…** from the menu bar.
-- Fixed the Enable MacPeek switch so it actually starts and stops Dock monitoring.
-- Added links for source code and optional development support.
-- Added an explicit Screen Recording usage description.
-- Removed the trial and license activation flow.
+![MacPeek Dock window preview](https://raw.githubusercontent.com/dangvanhai13091989/MacPeek/main/website/assets/macpeek-preview.png)
+
+- Replaced the optional development-support link with PayPal.Me.
+- Added a richer project overview with product artwork and a visual three-step guide.
+- Added social preview artwork and the real MacPeek icon to the project website.
+- Kept the app fully free, open source, Apple-notarized, and automatically updated through Sparkle.
+
+**[Download MacPeek.dmg](https://github.com/dangvanhai13091989/MacPeek/releases/latest/download/MacPeek.dmg)** · [Donate with PayPal](https://paypal.me/HaiDang880)
